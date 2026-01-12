@@ -11,7 +11,7 @@ I'm currently studying backend development. <br>I have a background in computer 
 <h1>Other Stats:</h1>
 <p align="center">
   <a href="https://www.codewars.com/users/kollvan">
-    <img src="https://github.r2v.ch/codewars?user=kollvan&top_languages=true" />
+    <img src="https://github.r2v.ch/codewars?user=kollvan&top_languages=true&hide_clan=true&theme=gradient_midnight_puple_by_level&" />
   </a>
   <a href="https://leetcode.com/21kirk49">
     <img src="https://leetcard.jacoblin.cool/21kirk49?ext=activity&theme=dark"/>
