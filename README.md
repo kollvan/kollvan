@@ -1,6 +1,7 @@
 # About Me:
 I'm currently studying backend development. <br>I have a background in computer security.
-
+# GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app?user=kollvan&theme=onedark-duo&mode=weekly)](https://git.io/streak-stats)
 # Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,11 +17,6 @@ I'm currently studying backend development. <br>I have a background in computer 
     <img src="https://leetcard.jacoblin.cool/21kirk49?ext=activity&theme=dark"/>
   </a>
 </p>
-<h1>GitHub Stats:</h1>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kollvan&theme=dark" />
-  </a>
-</p>
+
 
 
