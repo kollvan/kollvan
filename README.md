@@ -8,8 +8,17 @@ I'm currently studying backend development. <br>I have a background in computer 
   </a>
 </p>
 # Other Stats:
-[![Codewars](https://github.r2v.ch/codewars?user=kollvan&top_languages=true)](https://www.codewars.com/users/kollvan)</br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/21kirk49?ext=activity&theme=dark)](https://leetcode.com/21kirk49)  
+<p align="center">
+  <a href="https://www.codewars.com/users/kollvan">
+    <img src="https://github.r2v.ch/codewars?user=kollvan&top_languages=true" />
+  </a>
+  <a href="https://leetcode.com/21kirk49">
+    <img src="https://leetcard.jacoblin.cool/21kirk49?ext=activity&theme=dark"/>
+  </a>
+</p>
 # GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kollvan&theme=dark)](https://git.io/streak-stats)<br/>
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kollvan&theme=dark)](https://git.io/streak-stats)<br/>
+</div>
+
 
