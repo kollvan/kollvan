@@ -22,6 +22,5 @@ I'm currently studying backend development. <br>I have a background in computer 
     <img src="https://streak-stats.demolab.com/?user=kollvan&theme=dark" />
   </a>
 </p>
->
 
 
